@@ -5,13 +5,13 @@ The contents within are strictly confidential and intended for recruitment purpo
 
 ## Contents
 1. **Firmware Assessment**  
-   - Includes code, instructions, and relevant documentation for evaluating firmware development skills.
+   - Includes code, instructions, and relevant documentation for evaluating firmware development skills. Please find my response @ 'Firmware Assessment_modified.zip'
    
 2. **KiCad Assessment**  
-   - Contains PCB design tasks, schematic files, and guidelines for assessing proficiency with KiCad.
+   - Contains PCB design tasks, schematic files, and guidelines for assessing proficiency with KiCad. I have not modified any files. Please find my response @ '5_KiCad response.docx'.
 
 3. **Job Circular, Resume and Supporting Documents**  
-   - The job circular, Resume and other necessary PDF files required for the assessment process.
+   - The job circular, Resume and other necessary PDF files required for the assessment process. You may ignore them.
 
 ## Disclaimer
 This repository is temporary and will be private after the completion of the recruitment process.
